@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992185116346",
+    "project_id": "uppgift-1-it-sakerhet",
+    "storage_bucket": "uppgift-1-it-sakerhet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992185116346:android:6d35ca0b4e17170db68483",
+        "android_client_info": {
+          "package_name": "com.example.aleksanderbjelkuppgift1it_skerhet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVACBXP9_vC7IMWrScmR2nkTDhlNx6k5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
